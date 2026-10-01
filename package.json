@@ -1,0 +1,6 @@
+{
+  "name": "streamsimple",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple movie/show streaming site proxying the MovieBox/Cinexora API via Vercel serverless functions."
+}
